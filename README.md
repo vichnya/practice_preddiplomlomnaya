@@ -3,7 +3,7 @@
 
 [Инвариантная самостоятельная работа 2](https://github.com/vichnya/practice_preddiplomlomnaya/blob/main/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%92.%20%D0%98%D0%A1%D0%A0%202.pdf)
 
-[Инвариантная самостоятельная работа 3]()
+[Инвариантная самостоятельная работа 3](https://github.com/vichnya/practice_preddiplomlomnaya/blob/main/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%92.%20%D0%98%D0%A1%D0%A0%203.pdf)
 
 [Инвариантная самостоятельная работа 4](https://github.com/vichnya/practice_preddiplomlomnaya/blob/main/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%92.%20%D0%98%D0%A1%D0%A0%204.pdf)
 
